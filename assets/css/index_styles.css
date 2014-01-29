@@ -37,7 +37,7 @@
 
 
 .berlin{
-    background: url('{{baseurl}}/assets/img/release-1.png') 50% 50% no-repeat;
+    background: url('{{site.baseurl}}/assets/img/release-1.png') 50% 50% no-repeat;
 }
 
 .soe{
